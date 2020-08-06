@@ -1,5 +1,5 @@
 # Hitters-Baseball-Data-Salary-Forecast
-
+## Salary estimation with linear and nonlinear models
   Baseball Data
   Description
   Major League Baseball Data from the 1986 and 1987 seasons.
